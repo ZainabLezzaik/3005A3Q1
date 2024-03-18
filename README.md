@@ -29,6 +29,7 @@ In the Query Tool, click on the Open File button and choose the q1db.sql file in
 Once the file is open in the editor, click on the green Run button to execute the SQL commands
 
 Running the Application : 
+go to the source dir using this command : cd source 
 Run the applicationFunctions file using this command :  python3 applicationFunctions.py
 
 Link to the Video : https://youtu.be/vp_e8fmHEmg 
